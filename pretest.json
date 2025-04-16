@@ -1,0 +1,44 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which is the site of protein synthesis in a cell?",
+      "answers": {
+        "a": "Lysosome",
+        "b": "Golgi",
+        "c": "Smooth endoplasmic reticulum",
+        "d": "Ribosomes"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "2. ------- is the organelle which produces transition vesicles to transport molecules produced in ER to the Golgi.",
+      "answers": {
+        "a": "Lysosome",
+        "b": "Mitochondria",
+        "c": "Smooth ER",
+        "d": "Nucleus"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Smooth endoplasmic reticulum is the primary site for lipid biosynthesis.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

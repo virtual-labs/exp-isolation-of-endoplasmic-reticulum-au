@@ -1,0 +1,44 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. ----- is the enzyme present in the ER which is involved in the modification of drugs",
+      "answers": {
+        "a": "Cytochrome P450",
+        "b": "CYP3A4",
+        "c": "Aromatase",
+        "d": "21- Hydroxylase"
+      },
+ 
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "2. --- is the organelle responsible for the origin of other membranes in the cell.",
+      "answers": {
+        "a": "Mitochondria",
+        "b": "Lysosome",
+        "c": "Golgi",
+        "d": "Smooth endoplasmic reticulum"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3. ------- is the organelle which produces transition vesicles to transport molecules produced in ER to the Golgi",
+      "answers": {
+        "a": "Lysosome",
+        "b": "Mitochondria",
+        "c": "Smooth ER",
+        "d": "Nucleus"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
