@@ -1,1 +1,3 @@
-### Aim of the experiment
+### Objective
+
+To isolate the endoplasmic reticulum from mammalian cells.
