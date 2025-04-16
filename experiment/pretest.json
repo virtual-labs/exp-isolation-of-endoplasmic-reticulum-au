@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Glucose uptake activity was measured by using",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Liquid Scintillation counter",
+        "b": "Geiger Muller counter",
+        "c": "NMR spectroscopy"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+ 
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In glucose uptake assay, insulin and other plant extracts treated cells are washed with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Alkaline phosphatase buffer",
+        "b": "Hanks balanced salt solution",
+        "c": "Krebs-Ringer phosphate buffer"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. In glucose uptake assay, cells are lysed using",
+      "answers": {
+      "a": "10% SDS",
+      "b": "1% SDS",
+      "c": "0.1% SDS"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "4. In type 1 diabetes pancreas produce little or no insulin.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
