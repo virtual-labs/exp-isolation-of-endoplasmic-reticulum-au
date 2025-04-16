@@ -2,36 +2,41 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. ----- is the enzyme present in the ER which is involved in the modification of drugs",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cytochrome P450",
+        "b": "CYP3A4",
+        "c": "Aromatase",
+        "d": "21- Hydroxylase"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+ 
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. --- is the organelle responsible for the origin of other membranes in the cell.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mitochondria",
+        "b": "Lysosome",
+        "c": "Golgi",
+        "d": "Smooth endoplasmic reticulum"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3. ------- is the organelle which produces transition vesicles to transport molecules produced in ER to the Golgi",
+      "answers": {
+        "a": "Lysosome",
+        "b": "Mitochondria",
+        "c": "Smooth ER",
+        "d": "Nucleus"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
