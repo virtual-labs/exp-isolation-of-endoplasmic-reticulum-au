@@ -2,45 +2,36 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Glucose uptake activity was measured by using",
+      "question": "1. Which is the site of protein synthesis in a cell?",
       "answers": {
-        "a": "Liquid Scintillation counter",
-        "b": "Geiger Muller counter",
-        "c": "NMR spectroscopy"
+        "a": "Lysosome",
+        "b": "Golgi",
+        "c": "Smooth endoplasmic reticulum",
+        "d": "Ribosomes"
       },
  
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
+
+
     {
-      "question": "2. In glucose uptake assay, insulin and other plant extracts treated cells are washed with",
+      "question": "2. ------- is the organelle which produces transition vesicles to transport molecules produced in ER to the Golgi.",
       "answers": {
-        "a": "Alkaline phosphatase buffer",
-        "b": "Hanks balanced salt solution",
-        "c": "Krebs-Ringer phosphate buffer"
+        "a": "Lysosome",
+        "b": "Mitochondria",
+        "c": "Smooth ER",
+        "d": "Nucleus"
       },
       
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
 
+    
     {
-      "question": "3. In glucose uptake assay, cells are lysed using",
-      "answers": {
-      "a": "10% SDS",
-      "b": "1% SDS",
-      "c": "0.1% SDS"
-      },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-
-
-
-    {
-      "question": "4. In type 1 diabetes pancreas produce little or no insulin.",
+      "question": "3. Smooth endoplasmic reticulum is the primary site for lipid biosynthesis.",
       "answers": {
         "a": "True",
         "b": "False"
